@@ -1,2 +1,3 @@
 # AI-Workshop-for-beginners
-Come back here in a few days to see all the code and slides
+
+All the code and excercises for the the AI Workshop for beginners
